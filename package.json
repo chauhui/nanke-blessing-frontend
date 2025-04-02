@@ -7,7 +7,6 @@
     "export": "next export",
     "studio": "sanity dev --host",
     "studio:build": "sanity build",
-    "postinstall": "cd studio && npm install",
     "start": "next start"
   },
   "dependencies": {
