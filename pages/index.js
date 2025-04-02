@@ -8,7 +8,6 @@ export async function getStaticProps() {
     props: {
       banners,
     },
-    revalidate: 60,
   }
 }
 
